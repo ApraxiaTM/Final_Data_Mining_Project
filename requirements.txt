@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+statsmodels
+openpyxl          # for reading Excel (pima-diabetes.xlsx)
+xlrd              # optional older Excel reader
